@@ -26,6 +26,7 @@ int main()
 	}
 	 i++;
 	}
+	printf("\n");
 	for(i=0;i<10;i++)
 		printf("%d\n",arr[i]);
 }
